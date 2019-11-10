@@ -8,3 +8,6 @@ Below is an example of how Conv and Max Pool layer understand features, training
 * _Multi_Class:_ Moving from binary classification to multi-class classification. 
 * _Transfer_Learning:_ Using VGG16 weights to train a model. 2800 images of cats and dogs are used for training and 600 images for validation. Example of classifying images downloaded randomly from internet
 ![catsdogs](https://github.com/suvoooo/Learn-TensorFlow/blob/master/Transfer_Learning/Prediction_with_Vgg_CatsDogs.png)
+
+* _NLP_Embedding:_ Moving on from computer vision tasks, here we discuss classifying IMDB movie reviews and visualizng how embedding can help cluster words (positive & negative). 
+* _NLP_LSTM_Glove:_ Using pretrained Glove to classify tweets of positve sentiments from the negative one.  
