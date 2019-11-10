@@ -10,8 +10,8 @@ Below is an example of how Conv and Max Pool layer understand features, training
 ![catsdogs](https://github.com/suvoooo/Learn-TensorFlow/blob/master/Transfer_Learning/Prediction_with_Vgg_CatsDogs.png)
 
 * _NLP_Embedding:_ Moving on from computer vision tasks, here we discuss classifying IMDB movie reviews and visualizng how embedding can help cluster words (positive & negative). 
-* _NLP_LSTM_Glove:_ Using pretrained Glove to classify tweets of positve sentiments from the negative one. 
+* _NLP_LSTM_Glove:_ Using pretrained Glove to classify tweets of positve sentiments from the negative one. [Dataset - 1.6M Tweets](https://www.kaggle.com/kazanova/sentiment140)
 _Word Cloud of 50 Negative Words_--
 ![wd_cld_neg](https://github.com/suvoooo/Learn-TensorFlow/blob/master/NLP_LSTM_Glove/Wd_cld_neg_sent.png)
-_Word Cloud of 50 Positive Words --
+_Word Cloud of 50 Positive Words_ --
 ![wd_cld_pos](https://github.com/suvoooo/Learn-TensorFlow/blob/master/NLP_LSTM_Glove/Wd_cld_pos_sent.png)
