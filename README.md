@@ -15,3 +15,6 @@ _Word Cloud of 50 Negative Words_--
 ![wd_cld_neg](https://github.com/suvoooo/Learn-TensorFlow/blob/master/NLP_LSTM_Glove/Wd_cld_neg_sent.png)
 _Word Cloud of 50 Positive Words_ --
 ![wd_cld_pos](https://github.com/suvoooo/Learn-TensorFlow/blob/master/NLP_LSTM_Glove/Wd_cld_pos_sent.png)
+
+* _Time_SeriesW#:_ Deal with time series data, starting from simple linear regression to RNN, LSTM, 1D Convolution were used to build deep networks. Example of predicting minimum temperature of Melbourne is shown below-- 
+![min_temp](https://github.com/suvoooo/Learn-TensorFlow/blob/master/Time_SeriesW4/Min_Temp_Melbourne.png)
