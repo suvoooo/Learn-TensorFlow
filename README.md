@@ -18,3 +18,9 @@ _Word Cloud of 50 Positive Words_ --
 
 * _Time_SeriesW#:_ Deal with time series data, starting from simple linear regression to RNN, LSTM, 1D Convolution were used to build deep networks. Example of predicting minimum temperature of Melbourne is shown below-- 
 ![min_temp](https://github.com/suvoooo/Learn-TensorFlow/blob/master/Time_SeriesW4/Min_Temp_Melbourne.png)
+
+* _TFDataIntro.ipynb:_ Introducing [TF Dataset API](https://www.tensorflow.org/api_docs/python/tf/data/Dataset) and how to use them effectively to build efficient and fast data analysis pipeline. More details in [TDS](https://towardsdatascience.com/time-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435). 
+
+* _cassava-classification.ipynb:_ Cassava leaf disease classification competetion in [Kaggle](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview). The notebook here is the same one used for submission in the competetion. 
+
+* _detectpneumonia...ipynb_ Pneumonia detection using TensorFlow dataset API. The dataset is available in [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Many important comcepts such as standardization of images, roc curve as performance metric were influenced by DeepLearning.ai [course](https://www.deeplearning.ai/program/ai-for-medicine-specialization/). 
