@@ -23,4 +23,7 @@ _Word Cloud of 50 Positive Words_ --
 
 * _cassava-classification.ipynb:_ Cassava leaf disease classification competetion in [Kaggle](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview). The notebook here is the same one used for submission in the competetion. 
 
-* _detectpneumonia...ipynb_ Pneumonia detection using TensorFlow dataset API. The dataset is available in [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Many important comcepts such as standardization of images, roc curve as performance metric were influenced by DeepLearning.ai [course](https://www.deeplearning.ai/program/ai-for-medicine-specialization/). 
+* _detectpneumonia...ipynb_ Pneumonia detection using TensorFlow dataset API. The dataset is available in [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Many important comcepts such as standardization of images, class imbalance, roc curve as performance metric were influenced by DeepLearning.ai [course](https://www.deeplearning.ai/program/ai-for-medicine-specialization/). Below is an image of random prediction
+![pneumonia](https://github.com/suvoooo/Learn-TensorFlow/blob/master/im_generator/detect_pneumonia.png)
+ 
+
